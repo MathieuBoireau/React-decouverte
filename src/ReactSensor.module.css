@@ -1,0 +1,51 @@
+.div-results {
+	width: 300px;
+}
+
+.name-sensor {
+	font-size: 24px;
+	background-color: #cacce6;
+}
+
+.name-result {
+	text-align:left;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.result {
+	margin-right: 0px;
+    margin-left: auto;
+	margin-top: 10px;
+}
+
+.main-result {
+	font-size: 30px;
+}
+
+.table-history, .table-history > tbody > tr{
+	min-width: 200px;
+}
+
+.table-history, .table-history > tbody > tr, .table-history > tbody > tr > td {
+	border: 1px solid;
+	border-collapse: collapse;
+}
+
+.table-history tr:nth-child(2n) {
+	background-color: #E7E9EB;
+}
+
+.table-history > tbody > tr > td {
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.important-values {
+	font-size: 20px;
+}
+
+.icon {
+	width: 50px;
+}
